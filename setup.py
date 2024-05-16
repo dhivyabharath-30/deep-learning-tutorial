@@ -6,7 +6,7 @@ with open("README.md","r",encoding="utf-g") as f:
 __version__="0.0.0"
 REPO_NAME ="deep-learning-tutorial"
 AUTHOR_USER_NAME = "dhivyabharath-30"
-SRC_REPO = "deep-learning-tutorial"
+SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "dhivyabharath2005@gmail.com"
 
 setuptools.setup(
